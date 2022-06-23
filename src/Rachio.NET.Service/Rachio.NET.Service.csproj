@@ -33,7 +33,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="10.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="PxtlCa.XmlCommentMarkDownGenerator" Version="0.2.6270.2853" />
     <PackageReference Include="System.Net.Http" Version="4.3.4" />
   </ItemGroup>
